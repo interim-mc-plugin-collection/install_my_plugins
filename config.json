@@ -1,0 +1,20 @@
+{
+  "name": "install_my_plugins",
+  "shortName": "install_my_plugins",
+  "version": "0.0.1",
+  "author": "Daniel Hammerschmidt",
+  "description": "0",
+  "hasAdminPanel": false,
+  "homepage": "https://github.com/interim-mc-plugin-collection/install_my_plugins",
+  "changelogUrl": "https://raw.githubusercontent.com/interim-mc-plugin-collection/install_my_plugins/refs/heads/main/CHANGELOG.md",
+  "configUrl": "https://raw.githubusercontent.com/interim-mc-plugin-collection/install_my_plugins/refs/heads/main/config.json",
+  "downloadUrl": "https://github.com/interim-mc-plugin-collection/install_my_plugins/archive/refs/heads/main.zip",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/interim-mc-plugin-collection/install_my_plugins.git"
+  },
+  "versionHistoryUrl": "https://github.com/interim-mc-plugin-collection/install_my_plugins/tags",
+  "meshCentralCompat": ">=1.1.36",
+  "dependencies": {
+  }
+}
