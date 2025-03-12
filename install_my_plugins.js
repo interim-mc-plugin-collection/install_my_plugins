@@ -23,6 +23,8 @@ const my_favs = {
   devtools: 'https://raw.githubusercontent.com/ryanblenis/MeshCentral-DevTools/master/config.json',
   routeplus: 'https://raw.githubusercontent.com/ryanblenis/MeshCentral-RoutePlus/master/config.json',
   workfromhome: 'https://raw.githubusercontent.com/ryanblenis/MeshCentral-WorkFromHome/master/config.json',
+  pluginhookscheduler: 'https://raw.githubusercontent.com/bitctrl/MeshCentral-PluginHookScheduler/main/config.json',
+  pluginhookexample: 'https://raw.githubusercontent.com/bitctrl/MeshCentral-PluginHookExample/main/config.json',
 }
 
 module.exports = {
@@ -61,7 +63,7 @@ module.exports = {
           return new Promise((resolve, reject) => (pluginHandler.disablePlugin(thisPlugin._id, resolve)));
         })
         .then((result) => {
-          debugger;
+          // debugger;
         })
         ;
       }
