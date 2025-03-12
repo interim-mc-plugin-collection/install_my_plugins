@@ -25,6 +25,8 @@ const my_favs = {
   workfromhome: 'https://raw.githubusercontent.com/ryanblenis/MeshCentral-WorkFromHome/master/config.json',
   pluginhookscheduler: 'https://raw.githubusercontent.com/bitctrl/MeshCentral-PluginHookScheduler/main/config.json',
   pluginhookexample: 'https://raw.githubusercontent.com/bitctrl/MeshCentral-PluginHookExample/main/config.json',
+  agentname2servername: 'https://raw.githubusercontent.com/bitctrl/MeshCentral-Agentname2Servername/main/config.json',
+  hook_agentWebSocketDisconnected: 'https://raw.githubusercontent.com/bitctrl/MeshCentral-HookAgentWebSocketDisconnected/main/config.json',
 }
 
 module.exports = {
